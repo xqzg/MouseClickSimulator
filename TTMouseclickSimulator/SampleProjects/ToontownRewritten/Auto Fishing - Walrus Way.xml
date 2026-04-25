@@ -19,7 +19,7 @@ Before you click on Start, make sure that
       -->
       <Loop count="19">
         <AutomaticFishing scan1="153, 134" scan2="1450, 703" scanResultYAdjustment="10"
-                          bubbleColorRgb="35, 110, 110" toleranceRgb="25, 25, 25" />
+                          bubbleColorRgb="30, 95, 95" toleranceRgb="30, 30, 30" />
       </Loop>
       <!--
       The last cast must always be straight; otherwise the toon will rotate in
